@@ -2,4 +2,3 @@
 * PEKE
 * TAKE
 * DO
-* go

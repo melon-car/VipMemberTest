@@ -1,2 +1,4 @@
 # VipMemberTest
- 
+* PEKE
+* TAKE
+* DO

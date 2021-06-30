@@ -2,3 +2,4 @@
 *.exe
 .vscode/launch.json
 .vscode/tasks.json
+/.vs/VipMemberTest/v16/Browse.VC.opendb
